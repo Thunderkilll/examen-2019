@@ -1,0 +1,4 @@
+tn\esprit\entite\Role.class
+tn\esprit\services\IUserServiceRemote.class
+tn\esprit\services\UserService.class
+tn\esprit\entite\User.class
